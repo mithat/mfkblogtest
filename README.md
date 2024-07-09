@@ -1,3 +1,8 @@
 # mfkblogtest
 
-My hovercraft is full of eels.
+Things we want to see:
+
+* Blog awareness
+    * A page showing recent entries.
+    * Categories/tags/whatever widget.
+* Search. 
