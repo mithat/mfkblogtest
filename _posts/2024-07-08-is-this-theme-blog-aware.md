@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is this theme blog aware?"
+title:  "blogpage"
 ---
 
 Testing how to do a post in GitHub Pages.
